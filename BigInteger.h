@@ -1,6 +1,5 @@
 #define MAX_NUM 5
 #include "dll.h"
-//Used DoublyLinkedList provided by the lab assisstants and added extra functions to it
 class BigInteger {
 public:
     void createBigInt(string input); //Reads from an input file to store tokens and integers in a linkedlist format
